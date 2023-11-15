@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include<math.h>
 
-int main()
+int min()
 {
 	int n, arr[1000] = { 0 }, i, j, k, x, l;
 	printf("请输入有多少个数需要排序：");

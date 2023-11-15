@@ -24,5 +24,8 @@
     <ClCompile Include="整数逆位平方和及总和.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="saddle point 鞍部数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
