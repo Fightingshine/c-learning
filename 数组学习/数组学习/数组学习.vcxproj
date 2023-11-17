@@ -130,6 +130,7 @@
     <ClCompile Include="saddle point 鞍部数.c" />
     <ClCompile Include="二维数组练习.c" />
     <ClCompile Include="冒泡法数组排序.c" />
+    <ClCompile Include="寻找任意大的二维数组的最大的五个值.c" />
     <ClCompile Include="整数逆位平方和及总和.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,5 +1,2 @@
-﻿  saddle point 鞍部数.c
-D:\code\c-language-learning\数组学习\数组学习\saddle point 鞍部数.c(58,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
-D:\code\c-language-learning\数组学习\数组学习\saddle point 鞍部数.c(58,12): message : 占位符和其参数预计 5 可变参数，但提供的却是 3 参数
-D:\code\c-language-learning\数组学习\数组学习\saddle point 鞍部数.c(58,12): message : 缺失的可变参数 4 为格式字符串“%d”所需
+﻿  寻找任意大的二维数组的最大的五个值.c
   数组学习.vcxproj -> D:\code\c-language-learning\数组学习\x64\Debug\数组学习.exe
