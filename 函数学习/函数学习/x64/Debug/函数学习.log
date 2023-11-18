@@ -1,0 +1,3 @@
+﻿  储存反向字符串到字符数组函数.c
+D:\code\c-language-learning\函数学习\函数学习\储存反向字符串到字符数组函数.c(8,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  函数学习.vcxproj -> D:\code\c-language-learning\函数学习\x64\Debug\函数学习.exe
