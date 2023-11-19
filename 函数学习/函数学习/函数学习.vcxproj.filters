@@ -18,5 +18,8 @@
     <ClCompile Include="储存反向字符串到字符数组函数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="鞍部数函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,7 +3,7 @@
 #include<math.h> 
 #include<string.h>
 
-void reverseString(char str[])
+void reversestring(char str[])
 {
     int len = strlen(str);
     for (int i = 0; i < len / 2; i++) 
