@@ -1,3 +1,8 @@
-﻿  储存反向字符串到字符数组函数.c
-D:\code\c-language-learning\函数学习\函数学习\储存反向字符串到字符数组函数.c(8,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+﻿  鞍部数函数.c
+D:\code\c-language-learning\函数学习\函数学习\鞍部数函数.c(8,12): warning C4101: “k”: 未引用的局部变量
+D:\code\c-language-learning\函数学习\函数学习\鞍部数函数.c(8,9): warning C4101: “j”: 未引用的局部变量
+D:\code\c-language-learning\函数学习\函数学习\鞍部数函数.c(8,6): warning C4101: “i”: 未引用的局部变量
+D:\code\c-language-learning\函数学习\函数学习\鞍部数函数.c(17,21): warning C4047: “函数”:“int (*)[100]”与“int”的间接级别不同
+D:\code\c-language-learning\函数学习\函数学习\鞍部数函数.c(17,21): warning C4024: “saddle_point”: 形参和实参 1 的类型不同
+D:\code\c-language-learning\函数学习\函数学习\鞍部数函数.c(12): warning C4716: “saddle_point”: 必须返回一个值
   函数学习.vcxproj -> D:\code\c-language-learning\函数学习\x64\Debug\函数学习.exe
