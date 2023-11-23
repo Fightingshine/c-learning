@@ -21,5 +21,8 @@
     <ClCompile Include="鞍部数函数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="寻找数组里最大的五个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
