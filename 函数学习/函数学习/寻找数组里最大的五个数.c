@@ -5,5 +5,7 @@
 
 int main()
 {
-	int i,j,k
+	int i, j, k;
+	printf()
+
 }
