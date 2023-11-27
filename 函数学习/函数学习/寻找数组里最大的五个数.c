@@ -6,6 +6,10 @@
 int main()
 {
 	int i, j, k;
-	printf()
+	printf();
+	for (i = 0;; i++)
+	{
+		scanf()
+	}
 
 }
