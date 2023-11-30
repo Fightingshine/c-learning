@@ -1,7 +1,7 @@
 ﻿  1.c
-D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(7,23): warning C4133: “-”: 从“char *”到“int *”的类型不兼容
-D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
-D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(7,9): message : 请考虑在格式字符串中使用“%lld”
-D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(7,9): message : 请考虑在格式字符串中使用“%Id”
-D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(7,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(9,23): warning C4133: “-”: 从“char *”到“int *”的类型不兼容
+D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(9,9): message : 请考虑在格式字符串中使用“%lld”
+D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(9,9): message : 请考虑在格式字符串中使用“%Id”
+D:\code\c-language-learning\指针学习\指针练习1\指针练习1\1.c(9,9): message : 请考虑在格式字符串中使用“%I64d”
   指针练习1.vcxproj -> D:\code\c-language-learning\指针学习\指针练习1\x64\Debug\指针练习1.exe
