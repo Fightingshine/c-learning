@@ -23,6 +23,7 @@ int main()
 			printf();
 			scanf();
 			printf();
+			scanf();
 
 		}
 	}
