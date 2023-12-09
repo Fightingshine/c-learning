@@ -24,6 +24,7 @@ int main()
 			scanf();
 			printf();
 			scanf();
+			printf()
 
 		}
 	}
