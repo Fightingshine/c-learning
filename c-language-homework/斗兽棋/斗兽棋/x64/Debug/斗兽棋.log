@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(131,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(180): warning C4715: “card_color”: 不是所有的控件路径都返回值
+  斗兽棋.vcxproj -> D:\code\c-language-homework\斗兽棋\x64\Debug\斗兽棋.exe

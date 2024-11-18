@@ -1,0 +1,134 @@
+﻿  main.cpp
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(37,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(37,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [18]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(37,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(37,2): message : 尝试匹配参数列表“(IMAGE *, const char [18])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(38,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(38,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(38,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(38,2): message : 尝试匹配参数列表“(IMAGE *, const char [22])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(40,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(40,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(40,29): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(40,2): message : 尝试匹配参数列表“(IMAGE *, const char [20])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(42,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(42,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(42,29): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(42,2): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(43,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(43,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(43,29): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(43,2): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(44,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(44,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(44,29): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(44,2): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(45,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(45,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(45,29): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(45,2): message : 尝试匹配参数列表“(IMAGE *, const char [20])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(46,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(46,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(46,29): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(46,2): message : 尝试匹配参数列表“(IMAGE *, const char [23])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(47,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(47,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(47,29): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(47,2): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(48,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(48,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(48,29): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(48,2): message : 尝试匹配参数列表“(IMAGE *, const char [20])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(49,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(49,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [24]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(49,29): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(49,2): message : 尝试匹配参数列表“(IMAGE *, const char [24])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(51,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(51,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(51,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(51,2): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(52,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(52,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(52,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(52,2): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(53,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(53,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(53,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(53,2): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(54,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(54,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(54,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(54,2): message : 尝试匹配参数列表“(IMAGE *, const char [20])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(55,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(55,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(55,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(55,2): message : 尝试匹配参数列表“(IMAGE *, const char [23])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(56,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(56,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(56,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(56,2): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(57,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(57,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(57,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(57,2): message : 尝试匹配参数列表“(IMAGE *, const char [20])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(58,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(58,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [24]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(58,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(58,2): message : 尝试匹配参数列表“(IMAGE *, const char [24])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(108,2): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(108,2): message : “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(108,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(108,2): message : 尝试匹配参数列表“(int, int, const char [5])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(111,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(111,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [16]”转换为“TCHAR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(111,20): message : 没有使该转换得以执行的上下文
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(111,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [16]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(111,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(111,2): message : 尝试匹配参数列表“(int, int, const char [16])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(113,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(113,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [15]”转换为“TCHAR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(113,20): message : 没有使该转换得以执行的上下文
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(113,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [15]”转换为“LPCTSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(113,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(113,2): message : 尝试匹配参数列表“(int, int, const char [15])”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(131,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(324,3): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [10]”转换为“LPCWSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(324,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1): message : 参见“MessageBoxW”的声明
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(324,3): message : 尝试匹配参数列表“(int, const char [10], const char [8], long)”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(327,3): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [11]”转换为“LPCWSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(327,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1): message : 参见“MessageBoxW”的声明
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(327,3): message : 尝试匹配参数列表“(int, const char [11], const char [8], long)”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(329,50): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [10]”转换为“LPCWSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(329,67): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1): message : 参见“MessageBoxW”的声明
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(329,50): message : 尝试匹配参数列表“(int, const char [10], const char [8], long)”时
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(330,50): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [11]”转换为“LPCWSTR”
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(330,67): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1): message : 参见“MessageBoxW”的声明
+D:\code\c-language-homework\斗兽棋\斗兽棋\main.cpp(330,50): message : 尝试匹配参数列表“(int, const char [11], const char [8], long)”时

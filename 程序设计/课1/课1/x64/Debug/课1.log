@@ -1,0 +1,19 @@
+﻿  源.c
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,14): error C2057: 应输入常量表达式
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,15): error C2466: 不能分配常量大小为 0 的数组
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,17): error C2057: 应输入常量表达式
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,18): error C2466: 不能分配常量大小为 0 的数组
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,9): error C2087: “arr1”: 缺少下标
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,9): error C2133: “arr1”: 未知的大小
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,26): error C2057: 应输入常量表达式
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,27): error C2466: 不能分配常量大小为 0 的数组
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,29): error C2057: 应输入常量表达式
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,30): error C2466: 不能分配常量大小为 0 的数组
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,21): error C2087: “arr2”: 缺少下标
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,21): error C2133: “arr2”: 未知的大小
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,38): error C2057: 应输入常量表达式
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,39): error C2466: 不能分配常量大小为 0 的数组
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,41): error C2057: 应输入常量表达式
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,42): error C2466: 不能分配常量大小为 0 的数组
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,33): error C2087: “arr3”: 缺少下标
+D:\code\c-language-learning\程序设计\课1\课1\源.c(14,33): error C2133: “arr3”: 未知的大小
