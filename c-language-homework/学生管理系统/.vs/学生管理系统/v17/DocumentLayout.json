@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\c-learning\\c-language-homework\\\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D46E0C-AFB9-40B0-938B-2DA5C35B2ED0}|\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF.vcxproj|D:\\code\\c-learning\\c-language-homework\\\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77D46E0C-AFB9-40B0-938B-2DA5C35B2ED0}|\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\code\\c-learning\\c-language-homework\\\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\main.c",
+              "RelativeDocumentMoniker": "\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\main.c",
+              "ToolTip": "D:\\code\\c-learning\\c-language-homework\\\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\main.c",
+              "RelativeToolTip": "\u5B66\u751F\u7BA1\u7406\u7CFB\u7EDF\\main.c",
+              "ViewState": "AgIAACoCAAAAAAAAAAAAAIgBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-26T07:58:07.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

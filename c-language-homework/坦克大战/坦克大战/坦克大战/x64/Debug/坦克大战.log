@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\code\c-learning\c-language-homework\坦克大战\坦克大战\坦克大战\main.cpp(96,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\c-learning\c-language-homework\坦克大战\坦克大战\坦克大战\main.cpp(98,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\c-learning\c-language-homework\坦克大战\坦克大战\坦克大战\main.cpp(100,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\c-learning\c-language-homework\坦克大战\坦克大战\坦克大战\main.cpp(832,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\code\c-learning\c-language-homework\坦克大战\坦克大战\坦克大战\main.cpp(563,1): warning C4715: “enermy_tank_route”: 不是所有的控件路径都返回值
+  坦克大战.vcxproj -> D:\code\c-learning\c-language-homework\坦克大战\坦克大战\x64\Debug\坦克大战.exe
