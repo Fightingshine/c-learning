@@ -1,0 +1,396 @@
+﻿  client.cpp
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(103,9): warning C4005: “AF_IPX”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(457,9):
+      参见“AF_IPX”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(128,9): warning C4005: “AF_MAX”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(476,9):
+      参见“AF_MAX”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(187,9): warning C4005: “SO_DONTLINGER”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(399,9):
+      参见“SO_DONTLINGER”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(240,16): error C2011: “sockaddr”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(482,8):
+      参见“sockaddr”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(442,5): error C2059: 语法错误:“常数”
+  (编译源文件“client.cpp”)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(496,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“client.cpp”)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(496,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“client.cpp”)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(496,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“client.cpp”)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(577,9): warning C4005: “IN_CLASSA”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(284,9):
+      参见“IN_CLASSA”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(583,9): warning C4005: “IN_CLASSB”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(290,9):
+      参见“IN_CLASSB”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(589,9): warning C4005: “IN_CLASSC”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(296,9):
+      参见“IN_CLASSC”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(600,9): warning C4005: “INADDR_ANY”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(301,9):
+      参见“INADDR_ANY”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(602,9): warning C4005: “INADDR_BROADCAST”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(303,9):
+      参见“INADDR_BROADCAST”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(638,16): error C2011: “sockaddr_in”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(309,8):
+      参见“sockaddr_in”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(136,16): error C2011: “fd_set”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(65,16):
+      参见“fd_set”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(158,9): warning C4005: “FD_SET”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(96,9):
+      参见“FD_SET”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(180,8): error C2011: “timeval”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(108,8):
+      参见“timeval”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(236,9): error C2011: “hostent”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(164,9):
+      参见“hostent”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(249,9): error C2011: “netent”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(177,9):
+      参见“netent”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(256,9): error C2011: “servent”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(184,9):
+      参见“servent”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(268,9): error C2011: “protoent”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(196,9):
+      参见“protoent”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(364,16): error C2011: “WSAData”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(319,16):
+      参见“WSAData”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(462,8): error C2011: “sockproto”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(491,8):
+      参见“sockproto”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(504,9): error C2011: “linger”:“struct”类型重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(528,9):
+      参见“linger”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(517,9): warning C4005: “SOMAXCONN”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(541,9):
+      参见“SOMAXCONN”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(551,9): warning C4005: “FD_READ”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(559,9):
+      参见“FD_READ”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(554,9): warning C4005: “FD_WRITE”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(560,9):
+      参见“FD_WRITE”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(557,9): warning C4005: “FD_OOB”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(561,9):
+      参见“FD_OOB”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(560,9): warning C4005: “FD_ACCEPT”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(562,9):
+      参见“FD_ACCEPT”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(563,9): warning C4005: “FD_CONNECT”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(563,9):
+      参见“FD_CONNECT”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(566,9): warning C4005: “FD_CLOSE”: 宏重定义
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(564,9):
+      参见“FD_CLOSE”的前一个定义
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1631,1): error C2375: “accept”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(739,19):
+      参见“accept”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1653,1): error C2375: “bind”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(744,16):
+      参见“bind”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1674,1): error C2375: “closesocket”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(749,16):
+      参见“closesocket”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1691,1): error C2375: “connect”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(751,16):
+      参见“connect”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1712,1): error C2375: “ioctlsocket”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(756,16):
+      参见“ioctlsocket”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1735,1): error C2375: “getpeername”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(761,16):
+      参见“getpeername”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1756,1): error C2375: “getsockname”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(766,16):
+      参见“getsockname”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1777,1): error C2375: “getsockopt”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(771,16):
+      参见“getsockopt”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1802,1): error C2375: “htonl”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(778,19):
+      参见“htonl”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1819,1): error C2375: “htons”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(780,20):
+      参见“htons”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1837,1): error C2375: “inet_addr”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(782,26):
+      参见“inet_addr”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1855,1): error C2375: “inet_ntoa”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(784,23):
+      参见“inet_ntoa”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1955,1): error C2375: “listen”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(786,16):
+      参见“listen”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1974,1): error C2375: “ntohl”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(790,19):
+      参见“ntohl”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1991,1): error C2375: “ntohs”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(792,20):
+      参见“ntohs”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2008,1): error C2375: “recv”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(794,16):
+      参见“recv”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2031,1): error C2375: “recvfrom”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(800,16):
+      参见“recvfrom”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2058,1): error C2375: “select”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(808,16):
+      参见“select”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2083,1): error C2375: “send”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(815,16):
+      参见“send”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2106,1): error C2375: “sendto”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(821,16):
+      参见“sendto”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2133,1): error C2375: “setsockopt”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(829,16):
+      参见“setsockopt”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2158,1): error C2375: “shutdown”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(836,16):
+      参见“shutdown”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2178,1): error C2375: “socket”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(840,19):
+      参见“socket”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2203,1): error C2375: “gethostbyaddr”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(847,33):
+      参见“gethostbyaddr”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2225,1): error C2375: “gethostbyname”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(852,33):
+      参见“gethostbyname”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2242,1): error C2375: “gethostname”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(854,16):
+      参见“gethostname”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2282,1): error C2375: “getservbyport”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(858,33):
+      参见“getservbyport”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2301,1): error C2375: “getservbyname”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(862,33):
+      参见“getservbyname”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2320,1): error C2375: “getprotobynumber”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(866,34):
+      参见“getprotobynumber”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2337,1): error C2375: “getprotobyname”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(868,34):
+      参见“getprotobyname”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2357,1): error C2375: “WSAStartup”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(872,16):
+      参见“WSAStartup”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2377,1): error C2375: “WSACleanup”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(876,16):
+      参见“WSACleanup”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2394,1): error C2375: “WSASetLastError”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(878,17):
+      参见“WSASetLastError”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2411,1): error C2375: “WSAGetLastError”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(880,16):
+      参见“WSAGetLastError”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2432,1): error C2375: “WSAIsBlocking”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(882,17):
+      参见“WSAIsBlocking”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2450,1): error C2375: “WSAUnhookBlockingHook”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(884,16):
+      参见“WSAUnhookBlockingHook”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2468,1): error C2375: “WSASetBlockingHook”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(886,20):
+      参见“WSASetBlockingHook”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2486,1): error C2375: “WSACancelBlockingCall”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(888,16):
+      参见“WSACancelBlockingCall”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2504,1): error C2375: “WSAAsyncGetServByName”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(890,19):
+      参见“WSAAsyncGetServByName”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2532,1): error C2375: “WSAAsyncGetServByPort”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(898,19):
+      参见“WSAAsyncGetServByPort”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2560,1): error C2375: “WSAAsyncGetProtoByName”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(906,19):
+      参见“WSAAsyncGetProtoByName”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2586,1): error C2375: “WSAAsyncGetProtoByNumber”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(913,19):
+      参见“WSAAsyncGetProtoByNumber”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2612,1): error C2375: “WSAAsyncGetHostByName”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(920,19):
+      参见“WSAAsyncGetHostByName”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2638,1): error C2375: “WSAAsyncGetHostByAddr”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(927,19):
+      参见“WSAAsyncGetHostByAddr”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2668,1): error C2375: “WSACancelAsyncRequest”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(936,16):
+      参见“WSACancelAsyncRequest”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(2686,1): error C2375: “WSAAsyncSelect”: 重定义；不同的链接
+  (编译源文件“client.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(938,16):
+      参见“WSAAsyncSelect”的声明
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(4318,1): error C2059: 语法错误:“}”
+  (编译源文件“client.cpp”)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(4318,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“client.cpp”)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(19,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“client.cpp”)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(19,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“client.cpp”)
+  
+D:\code\c-learning\c-language-homework\冰冷的她醒来之前\客户端\客户端\client.cpp(10,10): error C2079: “wsaData”使用未定义的 struct“WSAData”
+D:\code\c-learning\c-language-homework\冰冷的她醒来之前\客户端\客户端\client.cpp(11,16): error C2568: “!=”: 无法解析函数重载
+      D:\code\c-learning\c-language-homework\冰冷的她醒来之前\客户端\客户端\client.cpp(11,16):
+      可能是“int WSAStartup(WORD,LPWSADATA)”
+  
+D:\code\c-learning\c-language-homework\冰冷的她醒来之前\客户端\客户端\client.cpp(12,3): error C3861: “printf”: 找不到标识符

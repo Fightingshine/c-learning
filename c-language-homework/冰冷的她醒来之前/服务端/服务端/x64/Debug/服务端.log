@@ -1,0 +1,4 @@
+﻿  server.cpp
+D:\code\c-learning\c-language-homework\冰冷的她醒来之前\服务端\服务端\server.cpp(209,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\c-learning\c-language-homework\冰冷的她醒来之前\服务端\服务端\server.cpp(208,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  服务端.vcxproj -> D:\code\c-learning\c-language-homework\冰冷的她醒来之前\服务端\x64\Debug\服务端.exe

@@ -1,76 +1,11 @@
-#include<easyx.h>
-#include<stdio.h>
-#include<graphics.h>
-#include<time.h>
-#include<conio.h>
-#include<stdlib.h>
-#include<Windows.h>
-#include<MMSystem.h>
-#include<thread>
-#pragma comment(lib,"winmm.lib")
+#include "game.h"
 
-#define widnows_width 832
-#define windows_height 832
-#define enermy_num 3
-
-
-enum Direction
-{
-	UP,
-	Down,
-	Left,
-	Right
-};
-enum Type
-{
-	Enermy,
-	player,
-};
-enum Life
-{
-	dead,
-	live
-};
-enum Game_status
-{
-	Processing,
-	victory,
-	defeat
-};
-enum Game_mode
-{
-	one_player,
-	two_players
-};
-
-//坦克结构体
-typedef struct Tank {
-	int x;
-	int y;
-	Direction direction;
-	int speed;
-	Type type;
-	Life life;
-}Tank;
 Tank player1;
 Tank player2;
 Tank enermy[enermy_num];
-
-
-//子弹结构体
-typedef struct Bullet {
-	int pos_x;
-	int pos_y;
-	Direction direction;
-	int speed;
-	Type type;
-	Life life;
-}Bullet;
 Bullet player1_bullet;
 Bullet player2_bullet;
 Bullet enermy_bullet[enermy_num];
-
-
 IMAGE logo;
 IMAGE block[5];
 IMAGE player1_Img[4];
@@ -81,7 +16,6 @@ IMAGE boom_Img[2];
 int current_map[26][26];
 Game_status flag = Processing;
 Game_mode game_mode;
-
 //地图组赋值
 void set_map(int x, int y, int value) {
 	current_map[y][x] = value;
@@ -109,6 +43,8 @@ void bullet_collision(int x, int y, Bullet* bullet) {
 			putimage(x * 32, y * 32, &boom_Img[0]);
             PlaySound(_T("./Res/audio/boom.wav"), NULL, SND_FILENAME | SND_ASYNC | SND_NOSTOP);
             waveOutSetVolume(0, 0x50005000); // 设置音量
+			Sleep(100);
+			putimage(x * 32, y * 32, &block[0]);
 		}
 		else if (current_map[y][x] == 2) {
 			PlaySound(_T("./Res/audio/boom.wav"), NULL, SND_FILENAME | SND_ASYNC | SND_NOSTOP);
@@ -979,15 +915,8 @@ DWORD WINAPI draw_thread(LPVOID lpParameter) {
 	}
 	return 0;
 }
-
-int main(){
-	initgraph(widnows_width, windows_height,EX_SHOWCONSOLE);
-	start_menu();
-	init();
-	
-	// 创建子线程
-	HANDLE hThread[5];
-	DWORD threadId[5];
+// 创建子线程
+int create_threads(HANDLE hThread[], DWORD threadId[]) {
 	hThread[0] = CreateThread(NULL, 0, bullet_move_thread, NULL, 0, &threadId[0]);
 	hThread[1] = CreateThread(NULL, 0, player1_move_thread, NULL, 0, &threadId[1]);
 	hThread[2] = CreateThread(NULL, 0, player2_move_thread, NULL, 0, &threadId[2]);
@@ -1003,22 +932,37 @@ int main(){
 				CloseHandle(hThread[j]);
 			}
 			closegraph();
-			return 1;
+			return 0;
 		}
 	}
-
-	// 等待子线程结束
+	return 1;
+}
+// 等待子线程结束
+void wait_for_threads(HANDLE hThread[]) {
 	WaitForSingleObject(hThread[0], INFINITE);
 	WaitForSingleObject(hThread[1], INFINITE);
 	WaitForSingleObject(hThread[2], INFINITE);
 	WaitForSingleObject(hThread[3], INFINITE);
 	WaitForSingleObject(hThread[4], INFINITE);
-
-	// 关闭线程句柄
+}
+// 关闭线程句柄
+void close_threads(HANDLE hThread[]) {
 	for (int i = 0; i < 5; i++) {
 		CloseHandle(hThread[i]);
 	}
+}
 
+int main(){
+	HANDLE hThread[5];
+	DWORD threadId[5];
+	initgraph(widnows_width, windows_height, EX_SHOWCONSOLE);
+	start_menu();
+	init();
+	if (create_threads(hThread, threadId) == 0) {
+		return 1;
+	}
+	wait_for_threads(hThread);
+	close_threads(hThread);
 	closegraph();
 	return 0;
 }

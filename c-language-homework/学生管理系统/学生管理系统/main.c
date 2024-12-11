@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <windows.h>
 
 //账号和密码结构体
 typedef struct account
@@ -403,9 +404,13 @@ int main()
                 if (secret == '\r') { account_PIN[i] = '\0'; printf("\n"); break; }
                 if (secret == '\b') { 
                     if (i > 0) { 
-                        i--; printf("\bw\b"); 
+                        i--; printf("\b \b");
                     }
                     continue; 
+                }
+                if (secret == VK_LEFT) {
+					continue;
+                  
                 }
                 account_PIN[i] = secret;
                 printf("*");

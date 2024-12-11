@@ -1,0 +1,6 @@
+﻿  client.cpp
+D:\code\c-learning\c-language-homework\冰冷的她醒来之前\客户端\客户端\client.cpp(711,39): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\code\c-learning\c-language-homework\冰冷的她醒来之前\客户端\客户端\client.cpp(178,1): warning C4715: “next_turn”: 不是所有的控件路径都返回值
+D:\code\c-learning\c-language-homework\冰冷的她醒来之前\客户端\客户端\client.cpp(785,1): warning C4715: “imprison”: 不是所有的控件路径都返回值
+  draw.cpp
+  客户端.vcxproj -> D:\code\c-learning\c-language-homework\冰冷的她醒来之前\客户端\x64\Debug\客户端.exe
